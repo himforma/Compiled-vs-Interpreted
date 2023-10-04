@@ -36,7 +36,7 @@ Compiled language adalah bahassa pemrograman yang membutuhkan proses compiled ya
 
 Interpreted language adalah bahassa pemrograman yang dijalankan melalui interpreter tanpa perlu dicompile kedalam bentuk bahasa masin. Proses Interpreted ini tidak langsung dieksekusi oleh mesin namun dibaca dan dieksekusi oleh program lain atau virtual machine yang terdapat didalamnya.
 
-### Contoh Compiled Language
+### Contoh Interpreted Language
 
 - Python
 - PHP
